@@ -30,7 +30,14 @@ A lot is heard about architecture, principles, design patterns and let's agree t
 
 - Clone this repository: `git clone https://github.com/zevdvlpr/dev-radar`
 - Run `npm install` or `yarn install`
-- Run `yarn dev` and access `http://localhost:3333`
+- Run `yarn dev` or `npm run dev`
+
+## Contribute
+
+- Fork the project.
+- Create a new branch with your changes: `git checkout -b my-feature`.
+- Save your changes and create a commit message telling you what you did: `git commit -m "feature: My new feature"`
+- Submit your changes: `git push origin my-feature`.
 
 ## Authors
 
