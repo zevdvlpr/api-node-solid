@@ -28,7 +28,8 @@ A lot is heard about architecture, principles, design patterns and let's agree t
 
 ## Usage
 
-- Run `npm install` or `yarn install`.
+- Clone this repository: `git clone https://github.com/zevdvlpr/dev-radar`
+- Run `npm install` or `yarn install`
 - Run `yarn dev` and access `http://localhost:3333`
 
 ## Authors
