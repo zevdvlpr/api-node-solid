@@ -52,5 +52,5 @@ A lot is heard about architecture, principles, design patterns and let's agree t
 <div align="center">
   <h1>Open Source</h1>
   <sub>Copyright © 2021-present, zevdvlpr.</sub>  
-  <p>api-node-slid <a href="https://github.com/zevdvlpr-studies/api-node-solid/tree/master/LICENSE">is MIT licensed 💖</a></p> 
+  <p>api-node-solid <a href="https://github.com/zevdvlpr-studies/api-node-solid/tree/master/LICENSE">is MIT licensed 💖</a></p> 
 </div>
