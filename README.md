@@ -28,7 +28,7 @@ A lot is heard about architecture, principles, design patterns and let's agree t
 
 ## Usage
 
-- Clone this repository: `git clone https://github.com/zevdvlpr/dev-radar`
+- Clone this repository: `git clone https://github.com/zevdvlpr/api-node-solid`
 - Run `npm install` or `yarn install`
 - Run `yarn dev` or `npm run dev`
 
